@@ -1,0 +1,17 @@
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\WebCar.WebApp.4_DataAcess.csproj.AssemblyReference.cache
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\WebCar.WebApp.4_DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\WebCar.WebApp.4_DataAcess.AssemblyInfoInputs.cache
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\WebCar.WebApp.4_DataAcess.AssemblyInfo.cs
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\WebCar.WebApp.4_DataAcess.csproj.CoreCompileInputs.cache
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\bin\Debug\net6.0\WebCar.WebApp.4_DataAcess.deps.json
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\bin\Debug\net6.0\WebCar.WebApp.4_DataAcess.dll
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\bin\Debug\net6.0\WebCar.WebApp.4_DataAcess.pdb
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\bin\Debug\net6.0\WebCar.Common.Enums.dll
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\bin\Debug\net6.0\WebCar.Common.Models.dll
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\bin\Debug\net6.0\WebCar.Common.Enums.pdb
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\bin\Debug\net6.0\WebCar.Common.Models.pdb
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\WebCar.WebApp.4_DataAcess.csproj.CopyComplete
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\WebCar.WebApp.4_DataAcess.dll
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\refint\WebCar.WebApp.4_DataAcess.dll
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\WebCar.WebApp.4_DataAcess.pdb
+D:\.net Core\WebCar\WebCar.WebApp.4_DataAcess\obj\Debug\net6.0\ref\WebCar.WebApp.4_DataAcess.dll

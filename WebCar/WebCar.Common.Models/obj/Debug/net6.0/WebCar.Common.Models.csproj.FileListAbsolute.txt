@@ -1,0 +1,15 @@
+D:\.net Core\WebCar\WebCar.Common.Models\bin\Debug\net6.0\WebCar.Common.Models.deps.json
+D:\.net Core\WebCar\WebCar.Common.Models\bin\Debug\net6.0\WebCar.Common.Models.dll
+D:\.net Core\WebCar\WebCar.Common.Models\bin\Debug\net6.0\WebCar.Common.Models.pdb
+D:\.net Core\WebCar\WebCar.Common.Models\bin\Debug\net6.0\WebCar.Common.Enums.dll
+D:\.net Core\WebCar\WebCar.Common.Models\bin\Debug\net6.0\WebCar.Common.Enums.pdb
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\WebCar.Common.Models.csproj.AssemblyReference.cache
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\WebCar.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\WebCar.Common.Models.AssemblyInfoInputs.cache
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\WebCar.Common.Models.AssemblyInfo.cs
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\WebCar.Common.Models.csproj.CoreCompileInputs.cache
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\WebCar.Common.Models.csproj.CopyComplete
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\WebCar.Common.Models.dll
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\refint\WebCar.Common.Models.dll
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\WebCar.Common.Models.pdb
+D:\.net Core\WebCar\WebCar.Common.Models\obj\Debug\net6.0\ref\WebCar.Common.Models.dll

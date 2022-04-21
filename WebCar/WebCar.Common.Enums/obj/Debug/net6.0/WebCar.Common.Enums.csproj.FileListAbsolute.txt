@@ -1,0 +1,12 @@
+D:\.net Core\WebCar\WebCar.Common.Enums\bin\Debug\net6.0\WebCar.Common.Enums.deps.json
+D:\.net Core\WebCar\WebCar.Common.Enums\bin\Debug\net6.0\WebCar.Common.Enums.dll
+D:\.net Core\WebCar\WebCar.Common.Enums\bin\Debug\net6.0\WebCar.Common.Enums.pdb
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\WebCar.Common.Enums.csproj.AssemblyReference.cache
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\WebCar.Common.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\WebCar.Common.Enums.AssemblyInfoInputs.cache
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\WebCar.Common.Enums.AssemblyInfo.cs
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\WebCar.Common.Enums.csproj.CoreCompileInputs.cache
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\WebCar.Common.Enums.dll
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\refint\WebCar.Common.Enums.dll
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\WebCar.Common.Enums.pdb
+D:\.net Core\WebCar\WebCar.Common.Enums\obj\Debug\net6.0\ref\WebCar.Common.Enums.dll
